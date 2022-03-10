@@ -3,6 +3,11 @@ uuid = "0b43e306-a85f-42c8-992d-57462e351534"
 authors = ["Ta-Chu Kao <tachu.kao@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
 [compat]
 julia = "1"
 
