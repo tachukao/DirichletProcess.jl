@@ -1,4 +1,4 @@
-name = "HierarchicalDirichletProcess"
+name = "DirichletProcess"
 uuid = "0b43e306-a85f-42c8-992d-57462e351534"
 authors = ["Ta-Chu Kao <tachu.kao@gmail.com>"]
 version = "0.1.0"

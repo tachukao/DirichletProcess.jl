@@ -1,6 +1,6 @@
-using HierarchicalDirichletProcess
+using DirichletProcess
 using Test
 
-@testset "HierarchicalDirichletProcess.jl" begin
+@testset "DirichletProcess.jl" begin
     # Write your tests here.
 end

@@ -1,4 +1,4 @@
-module HierarchicalDirichletProcess
+module DirichletProcess
 
 using Distributions
 

@@ -1,5 +1,5 @@
 module Run
-using HierarchicalDirichletProcess
+using DirichletProcess
 using Distributions
 using Plots
 

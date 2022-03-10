@@ -4,7 +4,7 @@
 module LDA
 using Distributions
 using StatsBase
-using HierarchicalDirichletProcess
+using DirichletProcess
 
 vocabulary = ["see", "spot", "run"]
 n_terms = length(vocabulary)
